@@ -1,0 +1,13 @@
+---
+layout: post
+title: 工作有感
+date: '2014-01-14 22:10'
+comments: true
+published: true
+keywords: 
+description: 
+excerpt: 
+categories: ['feel']
+tags: 
+---
+我的第一遍工作有感
